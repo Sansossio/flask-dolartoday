@@ -12,4 +12,4 @@ Vscode - <em>Just press F5</em>
 ## Endpoints
 
 Dollar price: http://localhost:5000/dollar <br>
-Eur price: http://localhost:5000/euw
+Eur price: http://localhost:5000/eur
