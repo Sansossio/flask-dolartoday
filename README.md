@@ -6,6 +6,7 @@ Simple dolartoday api integration on Flask
 
 Native ```python src/main.py``` <br>
 Docker ```docker-compose up```
+Vscode - <em>Just press F5</em>
 
 
 ## Endpoints
